@@ -1,13 +1,10 @@
-### Hi there 👋
+### Hello World, my name is Lucas "S"
 
 
-**lucascodigado/lucascodigado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Abaixo, conheça mais sobre mim:
 
-Iai Rapaziada, meu nome é Lucas e por aqui você poderá saber 
-um pouco mais sobre mim:
+Estudiante de Desenvolvimento de Sistemas;
 
-°Atualmente estou estudando na escola mediotec do senac.
+Aprendendo Linguagem C;
 
-°Estou aprendendo muitas coisas novas sobre informática.
-
-°Uma curiosidade sobre mim: eu gosto muito de pizza!
+Gosto de Ler, Principalmente Livros de Investigação Policial(Homem de Palha);
